@@ -1,0 +1,10 @@
+﻿  PremierProjet.cpp
+c:\users\felix\desktop\save\opengl\opengl_td2_rendering\premierprojet\premierprojet.cpp(132): warning C4156: suppression d'une expression de tableau sans utiliser la forme 'delete' de tableau ; substituée par la forme de tableau
+c:\users\felix\desktop\save\opengl\opengl_td2_rendering\premierprojet\premierprojet.cpp(132): warning C4154: suppression d'une expression de tableau ; conversion en pointeur fournie
+c:\users\felix\desktop\save\opengl\opengl_td2_rendering\premierprojet\premierprojet.cpp(133): warning C4156: suppression d'une expression de tableau sans utiliser la forme 'delete' de tableau ; substituée par la forme de tableau
+c:\users\felix\desktop\save\opengl\opengl_td2_rendering\premierprojet\premierprojet.cpp(133): warning C4154: suppression d'une expression de tableau ; conversion en pointeur fournie
+c:\users\felix\desktop\save\opengl\opengl_td2_rendering\premierprojet\premierprojet.cpp(134): warning C4156: suppression d'une expression de tableau sans utiliser la forme 'delete' de tableau ; substituée par la forme de tableau
+c:\users\felix\desktop\save\opengl\opengl_td2_rendering\premierprojet\premierprojet.cpp(134): warning C4154: suppression d'une expression de tableau ; conversion en pointeur fournie
+c:\users\felix\desktop\save\opengl\opengl_td2_rendering\premierprojet\premierprojet.cpp(135): warning C4156: suppression d'une expression de tableau sans utiliser la forme 'delete' de tableau ; substituée par la forme de tableau
+c:\users\felix\desktop\save\opengl\opengl_td2_rendering\premierprojet\premierprojet.cpp(135): warning C4154: suppression d'une expression de tableau ; conversion en pointeur fournie
+  PremierProjet.vcxproj -> C:\Users\felix\Desktop\Save\OpenGL\OpenGL_TD2_Rendering\x64\Debug\PremierProjet.exe
